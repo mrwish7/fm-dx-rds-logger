@@ -1,0 +1,14 @@
+{
+  "name": "fm-dx-rds-logger",
+  "version": "1.0.0",
+  "description": "RDS logger for FM-DX Webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Wisher",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
